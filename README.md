@@ -1,1 +1,3 @@
-# git_learning
+# Welcome to git tutorial.
+
+Here we are going to learn about git commands...
